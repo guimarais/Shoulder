@@ -5,7 +5,7 @@
 
 The shoulder in the density profiles is related to detachment state of the outer divertor.
 
-![alt text](./Figures/lin34281.png "Possible shoulder formation in reflectometry profiles.")
+![Possible shoulder formation in reflectometry profiles.](./Figures/lin34281.png "Possible shoulder formation in reflectometry profiles.")
 
 ## Shotlist
 
