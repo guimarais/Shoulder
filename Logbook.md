@@ -1,6 +1,12 @@
 # Shoulder formation in DN and dependence on SP distance
 ---
 
+## Motivation
+
+The shoulder in the density profiles is related to detachment state of the outer divertor.
+
+![alt text](./Figures/lin34281.png "Possible shoulder formation in reflectometry profiles.")
+
 ## Shotlist
 
 The main proposal for these discharges is from MST1 2017, HLT21.
