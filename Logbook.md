@@ -12,8 +12,23 @@ The shoulder in the density profiles is related to detachment state of the outer
 The main proposal for these discharges is from MST1 2017, HLT21.
 Some other discharges are added to complement the database.
 
-| shonumber | Observation | Ref | Fund |
+| Shonumber | Observation | Ref | Fund |
 |---|---|---|---|
+| 34874 | Small ELMs | BB | IPP |
+| 34875 | Small ELMs __PROC+RDL Reproc__ | BB | IPP |
+| 34877 | Small ELMs __PROC+RDL__ | BB | IPP |
+| 34878 | Small ELMs __H1+PROC+RDL__ | BB | IPP |
+| 34879 | Small ELMs | BB | IPP |
+| 34881 | Small ELMs __H1+PROC+RDL__ | BB | IPP |
+| 34882 | Small ELMs __H1+PROC+RDL__ | BB | IPP |
+| 34886 | Small ELMs __PROC+RDL__ | BB | IPP |
+| 34962 | Small ELMs __PROC+RDL__ | BB | IPP |
+| 35548 | Small ELMs | BB | MST1 |
+| 35549 | Small ELMs | BB | MST1 |
+| 35550 | Small ELMs | BB | MST1 |
+| 35551 | Small ELMs | BB | MST1 |
+| 35562 | Small ELMs | BB | MST1 |
+| 35563 | Small ELMs | BB | MST1 |
 | 35876 | NaN | BB | MST1 |
 | 35877 | Shot for turbulence measurements | FF | MST1 |
 | 35878 | Long close to DN period | BB | MST1 |
