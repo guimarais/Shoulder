@@ -16,6 +16,7 @@ Some other discharges are added to complement the database.
 
 | Shonumber | Observation | Ref | Fund |
 |---|---|---|---|
+| 30518 | Old shot with CD4 seeding | BB | IPP |
 | 34874 | Small ELMs | BB | IPP |
 | 34875 | Small ELMs __PROC+RDL Reproc__ | BB | IPP |
 | 34877 | Small ELMs | BB | IPP |
@@ -48,6 +49,8 @@ Some other discharges are added to complement the database.
 
 ## Langmuir probe data and magnetic configuration
 
-The temperature profile at both targets seems to be also dependent on magnetic configuration. At the HFS
+The temperature profile at both targets seems to be also dependent on magnetic configuration.
 
 ![Temp by LPs.](./Figures/temp_LP_34875.png "Temperature measured by LPs at the targets.")
+
+At this point, I'm stumbled. This is the only good example I have seen so far.

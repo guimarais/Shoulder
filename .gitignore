@@ -105,3 +105,6 @@ venv.bak/
 
 # Figures
 *.png
+
+#Data
+*.dat
