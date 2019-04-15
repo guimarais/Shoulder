@@ -21,7 +21,7 @@ Some other discharges are added to complement the database.
 | 34875 | Small ELMs __PROC+RDL Reproc__ | BB | IPP |
 | 34877 | Small ELMs | BB | IPP |
 | 34878 | Small ELMs __H1+PROC+RDL__ | BB | IPP |
-| 34879 | Small ELMs | BB | IPP |
+| 34879 | SEs, no HFSLP data | BB | IPP |
 | 34881 | Small ELMs | BB | IPP |
 | 34882 | Small ELMs | BB | IPP |
 | 34886 | Small ELMs | BB | IPP |
